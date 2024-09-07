@@ -70,4 +70,4 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "tomo", "~> 1.19"
+gem "tomo", "~> 1.20"
